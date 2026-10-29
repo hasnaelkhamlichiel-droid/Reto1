@@ -1,1 +1,0 @@
-Esto es un archivo de texsto escrito desde la linea de comand para probar que git está funcionando.
